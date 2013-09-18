@@ -22,6 +22,7 @@ function cc_acc_med_player_addJs() {
    if ($videoPresent == 'y') {
       wp_enqueue_script('jquery');
       wp_enqueue_script('jquery-ui-core');
+      wp_enqueue_script('jquery-ui-slider');
       wp_enqueue_script('swfobject');
       wp_enqueue_script('player', plugins_url('/core/javascript/jquery.player.min.js',__FILE__));
       wp_enqueue_script('loader', plugins_url('/custom/javascript/jquery.loader.js',__FILE__));
