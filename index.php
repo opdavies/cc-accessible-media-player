@@ -1,7 +1,7 @@
 <?php
 /*------------------------------------------------------------------------------
 Plugin Name: Accessible Media Player
-Plugin URI: http://www.coolfields.co.uk
+Plugin URI: https://github.com/opdavies/cc-accessible-media-player
 Description: This plugin uses the Nomensa Accessible Media Player to play videos when 
    asked to do so. 
 Author: Graham Armfield
