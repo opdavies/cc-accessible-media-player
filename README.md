@@ -1,5 +1,7 @@
 #About the Plugin
 
+This plugin was originally located at http://www.linkedin.com/groups/WordPress-Accessible-Media-Player-Plugin-4415968.S.132147460.
+
 The plugin uses the correct WordPress way of including the various jQuery and Nomensa scripts and CSS (to play nice with other plugins). To get this to work correctly I've had to change a couple of the original Nomensa scripts a little. As well as this plugin it's sensible to use the 'Use Google Libraries' plugin to link up to the Google hosted version of jQuery and swfobject - should be a better chance of those files being cached in users' browsers. If you don't want to use the Google Libraries plugin then WordPress will use its own versions of the files.
 
 #How to Use It
